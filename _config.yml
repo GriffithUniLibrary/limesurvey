@@ -10,7 +10,7 @@ title: LimeSurvey at Griffith
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
 title-icon: fas fa-wrench
 # description and keywords for meta tags
-description: "Resources and activities for the Griffith RED workshop for Online Research Survey Tool"
+description: "Resources and activities for the Griffith RED workshop on LimeSurvey"
 keywords: "workshops, websites, gh-pages, jekyll"
 featured-image: "/images/limesurvey-logo-card.png"
 

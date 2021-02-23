@@ -6,7 +6,7 @@ nav: true
 # Workshop Prep
 
 {% capture text %}
-**Note:** You **must** use a VPN (Virtual Private Network) to access the Survey Tool if you are off-campus. If you attempt to access it without a VPN you will be presented with a 'Permission Denied' message.{% endcapture %}
+**Note:** You **must** use a VPN (Virtual Private Network) to access LimeSurvey if you are off-campus. If you attempt to access it without a VPN you will be presented with a 'Permission Denied' message.{% endcapture %}
 {% include alert.md text=text color="warning" %}
 
 
@@ -21,7 +21,7 @@ Griffith recommends the use of the FortiClient VPN app.
 2. Follow the instructions for your system (Staff computer, Windows or Mac)
 3. Activate the VPN and long in using your s-number and password.
 3. Launch the [Survey Tool](https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/admin/index).
-5. If you are able to log in and see the Survey Tool, the VPN is working correctly.
+5. If you are able to log in and see LimeSurvey, the VPN is working correctly.
 {% endcapture %}
 {% include card.md text=text header="Installing a VPN" %}
 

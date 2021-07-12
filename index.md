@@ -7,8 +7,11 @@ layout: default
 
 {% include figure.html img="limesurvey-logo.jpg" alt="intro image here" caption="LimeSurvey logo" width="100%" %}
 
-Welcome to this Griffith Researcher Education and Development (RED) workshop on Lime Survey, the Online Research Survey Tool. 
+{% capture workshopinfo %}
+Hi! This site is designed as a companion to [Griffith Library's](https://www.griffith.edu.au/library) Lime Survey workshop, presented in collaboration with Griffith [RED](https://www.griffith.edu.au/research/research-services/researcher-education-development).
 
+It can also be treated as a standalone, self-paced tutorial.
+{% endcapture %}
 
 {% capture text %}
 LimeSurvey is a fast, free, flexible and secure survey application that is available to you to assist with your research. This workshop is designed to be taken as a series of online videos and exercises, followed by a Q&A workshop. The PowerPoint slides can be found below. {% endcapture %}

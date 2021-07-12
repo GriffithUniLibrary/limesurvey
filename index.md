@@ -13,9 +13,11 @@ Hi! This site is designed as a companion to [Griffith Library's](https://www.gri
 It can also be treated as a standalone, self-paced tutorial.
 {% endcapture %}
 
+{% include alert.md text=workshopinfo color="info" %}
+
 {% capture text %}
 LimeSurvey is a fast, free, flexible and secure survey application that is available to you to assist with your research. This workshop is designed to be taken as a series of online videos and exercises, followed by a Q&A workshop. The PowerPoint slides can be found below. {% endcapture %}
-{% include alert.md text=text color="info" %}
+{% include alert.md text=text color="primary" %}
 
 
 ## Workshop slides
